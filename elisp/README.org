@@ -1,0 +1,9 @@
+#+TITLE: Readme
+
+* COMEEGA Elisp Examples (collaborative org-mode enhanced emacs generalized authorship)
+
+Examples of various types of comeega files.
+To be viewed and used by comeega package.
+
+* bap-package.el --- Blee Adopted Package
+** Common structure
